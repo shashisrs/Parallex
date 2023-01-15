@@ -1,2 +1,2 @@
 # Parallex
-Parallex website
+Parallex website:https://parallax-adventure.netlify.app/
